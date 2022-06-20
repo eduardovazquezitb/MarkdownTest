@@ -1,5 +1,5 @@
 # Testing Markdown
 
-![Cat Picture](gato.jpg){width=70%}
+![Cat Picture](gato.jpg)
 
 **This was just a test**
